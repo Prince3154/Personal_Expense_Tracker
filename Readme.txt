@@ -1,0 +1,3 @@
+A simple command-line tool to manage and track your personal expenses. This Python-based application allows you to add expenses, view detailed summaries with visual representations, and delete unwanted expenses. It supports saving and loading expenses in both CSV and JSON formats.
+
+Expenses are stored in CSV or JSON formats. The application automatically loads expenses from expenses.csv upon startup and saves any new changes upon exit. You can also switch to using a JSON file by updating the filename in the code.
